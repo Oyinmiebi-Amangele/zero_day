@@ -1,0 +1,1 @@
+This is to understand what uname does when used
